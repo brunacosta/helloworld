@@ -1,0 +1,1 @@
+/home/bruna/PycharmProjects/helloworld/backend/venv/dev_requirements.txt
